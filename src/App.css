@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi&family=Nanum+Pen+Script&family=Stylish&display=swap');
 .App {
   text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  margin: auto;
+  max-width: 500px;
+  min-height: 100vh;
+  font-family: 'Gugi', cursive;
 }
 
 .App-logo {
