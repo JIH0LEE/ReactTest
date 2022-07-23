@@ -1,4 +1,4 @@
-import MainPage from './page/MainPage'
+import MainPage from './Page/MainPage'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 import './App.css'
